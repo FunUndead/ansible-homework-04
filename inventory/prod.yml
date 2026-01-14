@@ -2,7 +2,7 @@
 clickhouse:
   hosts:
     clickhouse-01: 
-      ansible_host: 158.160.142.166
+      ansible_host: 158.160.207.17
       ansible_user: funundead
 vector:
   hosts:
